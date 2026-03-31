@@ -30,7 +30,7 @@ Bright Coffee Shop is a growing coffee business that has been operating for six 
 | Category | Tools |
 |----------|-------|
 | **Planning & Architecture** | Miro |
-| **Data Processing** | Databricks, Snowflake, SQL |
+| **Data Processing** | Databricks, SQL |
 | **Data Analysis & Visualization** | Microsoft Excel, Pivot Tables, Charts |
 | **Presentation** | Microsoft PowerPoint |
 
